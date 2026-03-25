@@ -246,12 +246,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umair-Ahmed786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-Ahmed786&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Ahmed786&layout=donut&theme=tokyonight&langs_count=4&hide=html,css,shell,jupyter+notebook,dockerfile,makefile&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umair-Ahmed786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Ahmed786&layout=compact&theme=tokyonight&langs_count=4&hide=html,css,shell,jupyter+notebook,dockerfile,makefile,php,scss,blade,vue,ruby,go,kotlin,swift,rust,dart&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="180"/>
 </p>
 
 ---
