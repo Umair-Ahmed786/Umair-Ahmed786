@@ -33,10 +33,10 @@ class UmairAhmed:
 
     def full_stack(self):
         return {
-            "frontend":  ["Next.js", "React.js", "Tailwind CSS"],
+            "frontend":  ["Next.js", "React.js", "Tailwind CSS", "shadcn/ui"],
             "backend":   ["Node.js", "Express.js", "FastAPI", "REST APIs", "WebSockets"],
-            "databases": ["PostgreSQL", "MongoDB", "Prisma ORM"],
-            "cloud":     ["AWS EC2", "Vercel", "Docker", "CI/CD"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Prisma ORM"],
+            "cloud":     ["AWS EC2", "Vercel", "Docker", "CI/CD", "GitHub Actions"],
             "shipped":   "8+ production apps — e-commerce, real-time chat, AI platforms, portals"
         }
 
@@ -57,16 +57,6 @@ me.say_hi()
 
 ---
 
-## 🔬 Research & Publications
-
-| Paper | Venue | Status |
-|---|---|---|
-| **Enhancing Legal Assistance with LLMs: A PEFT and RAG Approach** | Sustainable Futures, Elsevier | 🔄 Submitted |
-| **Enhancing Whisper for Low-Resource Sindhi Language ASR** | iCoMET, IEEE | ✅ Accepted |
-| **M2F-SL: Image Manipulation Detection using Mask2Former & Swin-Large** | — | 🔄 In Progress |
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌐 Full-Stack & Web Apps
@@ -81,7 +71,7 @@ me.say_hi()
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
-        <img src="https://img.shields.io/badge/Inngest-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -196,19 +186,25 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-### 🌐 Full-Stack Development
+### 🌐 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Expertise:** REST APIs · WebSockets · JWT/RBAC Auth · Server Actions · Background Jobs · Serverless · Role-Based Access Control
 
 ### 🤖 AI / ML / LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -217,24 +213,45 @@ me.say_hi()
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-10B981?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Specializations:** LLM Fine-tuning (LoRA, QLoRA, PEFT) · RAG Pipelines · Prompt Engineering · Transfer Learning · NLP · Computer Vision · Speech Recognition · Image Segmentation · RLHF
 
 **Vector DBs:** FAISS · ChromaDB · Pinecone
 
-### ☁️ MLOps & Cloud
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umair-Ahmed786&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-Ahmed786&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umair-Ahmed786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-Ahmed786&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Ahmed786&layout=donut&theme=tokyonight&langs_count=10&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="220"/>
 </p>
 
 ---
@@ -242,7 +259,7 @@ me.say_hi()
 ## 🧠 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umair-Ahmed786&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umair-Ahmed786&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316"/>
 </p>
 
 ---
@@ -269,6 +286,16 @@ me.say_hi()
   <tr><td>🚀</td><td>Shipped <strong>8+ production full-stack apps</strong> — e-commerce, real-time chat, AI platforms, portals</td></tr>
 </table>
 </div>
+
+---
+
+## 🔬 Research & Publications
+
+| Paper | Venue | Status |
+|---|---|---|
+| **Enhancing Legal Assistance with LLMs: A PEFT and RAG Approach** | Sustainable Futures, Elsevier | 🔄 Submitted |
+| **Enhancing Whisper for Low-Resource Sindhi Language ASR** | iCoMET, IEEE | ✅ Accepted |
+| **M2F-SL: Image Manipulation Detection using Mask2Former & Swin-Large** | — | 🔄 In Progress |
 
 ---
 
