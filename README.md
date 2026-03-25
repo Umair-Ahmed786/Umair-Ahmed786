@@ -251,7 +251,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Ahmed786&layout=donut&theme=tokyonight&langs_count=10&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Ahmed786&layout=donut&theme=tokyonight&langs_count=4&hide=html,css,shell,jupyter+notebook,dockerfile,makefile&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" height="220"/>
 </p>
 
 ---
