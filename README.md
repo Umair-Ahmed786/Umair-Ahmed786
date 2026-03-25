@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umair%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Researcher&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a5f,100:24243e&height=200&section=header&text=Umair%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Researcher&descAlignY=58&descColor=38bdf8&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Computer+Vision+%7C+RAG+Pipelines;Full-Stack+Engineer+%7C+AI+Researcher;Turning+Ideas+into+Production+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Next.js+%7C+React+%7C+Node.js;AI%2FML+Engineer+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;Shipping+Production+Apps+%26+Intelligent+Systems+%F0%9F%9A%80;2.5%2B+Years+Building+End-to-End+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,23 @@
 class UmairAhmed:
     def __init__(self):
         self.name         = "Umair Ahmed"
-        self.role         = ["AI/ML Engineer", "Full-Stack Developer", "Researcher"]
+        self.role         = ["Full-Stack Developer", "AI/ML Engineer", "Researcher"]
         self.location     = "Sukkur, Sindh, Pakistan 🇵🇰"
         self.education    = "B.S. Computer Science – Sukkur IBA University (2025)"
-        self.experience   = "2.5+ years building production AI & web systems"
+        self.experience   = "2.5+ years building production web & AI systems"
         self.research     = ["Elsevier (Submitted)", "IEEE iCoMET (Accepted)"]
         self.achievement  = "🏆 1st Place – Inter-University AI/ML Competition 2025"
 
-    def current_focus(self):
+    def full_stack(self):
+        return {
+            "frontend":  ["Next.js", "React.js", "Tailwind CSS"],
+            "backend":   ["Node.js", "Express.js", "FastAPI", "REST APIs", "WebSockets"],
+            "databases": ["PostgreSQL", "MongoDB", "Prisma ORM"],
+            "cloud":     ["AWS EC2", "Vercel", "Docker", "CI/CD"],
+            "shipped":   "5+ production apps — e-commerce, real-time chat, academic portals"
+        }
+
+    def ai_ml(self):
         return [
             "LLM fine-tuning with LoRA & QLoRA",
             "RAG pipelines for domain-specific AI",
@@ -131,6 +140,20 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
+### 🌐 Full-Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Expertise:** REST APIs · WebSockets · JWT/RBAC Auth · Server Actions · Background Jobs · Serverless · Role-Based Access Control
+
 ### 🤖 AI / ML / LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -142,15 +165,6 @@ me.say_hi()
 **Specializations:** LLM Fine-tuning (LoRA, QLoRA, PEFT) · RAG Pipelines · Prompt Engineering · Transfer Learning · NLP · Computer Vision · Speech Recognition · Image Segmentation · RLHF
 
 **Vector DBs:** FAISS · ChromaDB · Pinecone
-
-### 🌐 Full-Stack Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ☁️ MLOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
@@ -176,14 +190,14 @@ me.say_hi()
 ## 🏆 Highlights
 
 <div align="center">
-
-| 🥇 | **1st Place** – Inter-University AI/ML Competition 2025 |
-|---|---|
-| 🎓 | **SEEF Undergraduate Scholarship** 2023 – Merit-based award |
-| 📄 | **2 Research Papers** accepted/submitted to IEEE & Elsevier |
-| 👨‍🏫 | Trained **40+ students** in Data Science & Cloud Computing |
-| ⚡ | **99%+ uptime** maintained on AWS EC2 production deployments |
-
+<table>
+  <tr><td>🥇</td><td><strong>1st Place</strong> – Inter-University AI/ML Competition 2025</td></tr>
+  <tr><td>🎓</td><td><strong>SEEF Undergraduate Scholarship</strong> 2023 – Merit-based award</td></tr>
+  <tr><td>📄</td><td><strong>2 Research Papers</strong> accepted/submitted to IEEE &amp; Elsevier</td></tr>
+  <tr><td>👨‍🏫</td><td>Trained <strong>40+ students</strong> in Data Science &amp; Cloud Computing</td></tr>
+  <tr><td>⚡</td><td><strong>99%+ uptime</strong> maintained on AWS EC2 production deployments</td></tr>
+  <tr><td>🚀</td><td>Shipped <strong>5+ production full-stack apps</strong> — e-commerce, real-time chat, portals</td></tr>
+</table>
 </div>
 
 ---
@@ -200,7 +214,7 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Collaborate!&fontSize=28&fontColor=a78bfa&fontAlignY=65" />
 
-**"Building AI that matters — one model at a time."**
+**"Shipping production apps from frontend to AI — end to end."**
 
 📬 Reach me at **umair.ahmed.cs@gmail.com** · 📍 Sukkur, Pakistan
 
