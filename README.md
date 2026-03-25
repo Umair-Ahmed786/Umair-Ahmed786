@@ -178,12 +178,26 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairahmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<!-- Profile views counter — always works -->
+<img src="https://komarev.com/ghpvc/?username=umairahmed&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umairahmed&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<br/><br/>
+
+<!-- GitHub Trophies — reliable and looks great -->
+<img src="https://github-profile-trophy.vercel.app/?username=umairahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+<br/><br/>
+
+<!-- Contribution snake animation (requires one-time GitHub Actions setup — see below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umairahmed/umairahmed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umairahmed/umairahmed/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/umairahmed/umairahmed/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
+
+> 💡 **To activate the snake animation:** In your profile repo (`umairahmed/umairahmed`), create `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk). It runs on a schedule and saves the SVG to the `output` branch automatically.
 
 ---
 
@@ -198,14 +212,6 @@ me.say_hi()
   <tr><td>⚡</td><td><strong>99%+ uptime</strong> maintained on AWS EC2 production deployments</td></tr>
   <tr><td>🚀</td><td>Shipped <strong>5+ production full-stack apps</strong> — e-commerce, real-time chat, portals</td></tr>
 </table>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairahmed&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" />
 </div>
 
 ---
