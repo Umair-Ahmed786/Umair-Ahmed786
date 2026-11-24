@@ -1,14 +1,16 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a5f,100:24243e&height=200&section=header&text=Umair%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Researcher&descAlignY=58&descColor=38bdf8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a5f,100:24243e&height=200&section=header&text=Umair%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20IEEE-Published%20Researcher&descAlignY=58&descColor=38bdf8&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Next.js+%7C+React+%7C+Node.js;AI%2FML+Engineer+%7C+LLMs+%7C+RAG+%7C+Computer+Vision;Shipping+Production+Apps+%26+Intelligent+Systems+%F0%9F%9A%80;2.5%2B+Years+Building+End-to-End+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+AI+Engineer+%7C+Generative+AI+%7C+LLMs+%26+RAG;Next.js+%7C+React+%7C+Node.js+%7C+Python%2FFastAPI;IEEE-Published+%7C+Sindhi+Speech+AI+%7C+Computer+Vision;Shipping+Production+AI+Products+%F0%9F%9A%80" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/umair-ahmed-58b024280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairahmedcs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-d9a15b?style=for-the-badge&logo=githubpages&logoColor=15110d)](https://umair-ahmed786.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FjTkHtQAAAAJ)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](http://huggingface.co/heyIamUmair)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umair-Ahmed786)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umair.ahmed.cs@gmail.com)
@@ -24,11 +26,11 @@
 class UmairAhmed:
     def __init__(self):
         self.name         = "Umair Ahmed"
-        self.role         = ["Full-Stack Developer", "AI/ML Engineer", "Researcher"]
-        self.location     = "Sukkur, Sindh, Pakistan 🇵🇰"
+        self.role         = "Full-Stack AI Engineer @ Revonix"
+        self.location     = "Islamabad, Pakistan 🇵🇰"
         self.education    = "B.S. Computer Science – Sukkur IBA University (2025)"
-        self.experience   = "2.5+ years building production web & AI systems"
-        self.research     = ["Elsevier (Submitted)", "IEEE iCoMET (Accepted)"]
+        self.experience   = "2+ years building production web & AI systems"
+        self.research     = ["2 papers at IEEE iCoMET 2026 (published)", "PLOS ONE (under revision)"]
         self.achievement  = "🏆 1st Place – Inter-University AI/ML Competition 2025"
 
     def full_stack(self):
@@ -151,7 +153,7 @@ me.say_hi()
     </td>
     <td width="50%">
       <h3>🎙️ Sindhi ASR – Speech Recognition</h3>
-      <p>Curated 50+ hours of Sindhi speech and retrained OpenAI Whisper via transfer learning, reducing WER by 6.25% — advancing NLP for an underrepresented language. Accepted at IEEE iCoMET.</p>
+      <p>Curated 50+ hours of Sindhi speech and retrained OpenAI Whisper via transfer learning, reducing WER by 6.25% — advancing NLP for an underrepresented language. Published at IEEE iCoMET 2026.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
@@ -264,23 +266,13 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-> 💡 **To activate the snake:** Create `.github/workflows/snake.yml` in your `Umair-Ahmed786/Umair-Ahmed786` profile repo using [Platane/snk](https://github.com/Platane/snk).
-
----
-
 ## 🏆 Highlights
 
 <div align="center">
 <table>
   <tr><td>🥇</td><td><strong>1st Place</strong> – Inter-University AI/ML Competition 2025</td></tr>
   <tr><td>🎓</td><td><strong>SEEF Undergraduate Scholarship</strong> 2023 – Merit-based award</td></tr>
-  <tr><td>📄</td><td><strong>2 Research Papers</strong> accepted/submitted to IEEE &amp; Elsevier</td></tr>
+  <tr><td>📄</td><td><strong>2 IEEE papers</strong> published at iCoMET 2026, plus 1 under revision at PLOS ONE</td></tr>
   <tr><td>👨‍🏫</td><td>Trained <strong>40+ students</strong> in Data Science &amp; Cloud Computing</td></tr>
   <tr><td>⚡</td><td><strong>99%+ uptime</strong> maintained on AWS EC2 production deployments</td></tr>
   <tr><td>🚀</td><td>Shipped <strong>8+ production full-stack apps</strong> — e-commerce, real-time chat, AI platforms, portals</td></tr>
@@ -293,8 +285,9 @@ me.say_hi()
 
 | Paper | Venue | Status |
 |---|---|---|
-| **Enhancing Legal Assistance with LLMs: A PEFT and RAG Approach** | Sustainable Futures, Elsevier | 🔄 Submitted |
-| **Enhancing Whisper for Low-Resource Sindhi Language ASR** | iCoMET, IEEE | ✅ Accepted |
+| **[Enhancing Whisper for Low-Resource Sindhi Language ASR](https://ieeexplore.ieee.org/document/11591966)** | iCoMET 2026, IEEE Xplore | ✅ Published |
+| **[DeepFractNet: Integrating Computer Vision and Explainable AI for Enhanced Fracture Detection](https://ieeexplore.ieee.org/document/11591860)** | iCoMET 2026, IEEE Xplore | ✅ Published |
+| **Enhancing Legal Assistance with LLMs: A PEFT and RAG Approach** | PLOS ONE | 🔄 Under revision |
 | **M2F-SL: Image Manipulation Detection using Mask2Former & Swin-Large** | — | 🔄 In Progress |
 
 ---
@@ -305,6 +298,6 @@ me.say_hi()
 
 **"Shipping production apps from frontend to AI — end to end."**
 
-📬 **umair.ahmed.cs@gmail.com** · 📍 Sukkur, Pakistan · 💡 Open to freelance, collaboration & exciting AI projects
+📬 **umair.ahmed.cs@gmail.com** · 📍 Islamabad, Pakistan · 🌐 [umair-ahmed786.github.io](https://umair-ahmed786.github.io/) · 💡 Open to remote Full-Stack AI roles, freelance & collaboration
 
 </div>
